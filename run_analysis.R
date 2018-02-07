@@ -27,7 +27,7 @@ subtestdt <- read.table("./module3/Data/UCI HAR Dataset/test/subject_test.txt")
 
 
 xtraindt <- read.table("./module3/Data/UCI HAR Dataset/train/X_train.txt")
-ytraindt <- read.table("./module3/Data/UCI HAR Dataset/train/y_train.txt")
+ytraindt <- read.table("./module3/Data/UCI HAR Dataset/train/X_train.txt")
 subtraindt <- read.table("./data/sample/UCI HAR Dataset/train/subject_train.txt")
 
 fetdt <- read.table("./module3/Data/UCI HAR Dataset/features.txt")
